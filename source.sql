@@ -1,0 +1,1 @@
+USE vote_dbv2;create table vote (id INT, teamname VARCHAR(20), votes INT);INSERT INTO vote (id,teamname,votes) VALUES(1,"srilanka",0);INSERT INTO vote (id,teamname,votes) VALUES(2,"pakistan",0);INSERT INTO vote (id,teamname,votes) VALUES(3,"india",0);
